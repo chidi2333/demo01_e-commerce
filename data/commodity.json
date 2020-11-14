@@ -1,0 +1,153 @@
+{
+    "commodity":[
+        {
+            "img":"images/001.jpg",
+            "info":"凡客男款冰爽薄荷家居T恤 黑色",
+            "salary":"158",
+            "product_id":1
+        },
+        {
+            "img":"images/002.jpg",
+            "info":"凡客男款冰爽薄荷家居T恤 白色",
+            "salary":"158",
+            "product_id":2
+        },
+        {
+            "img":"images/003.jpg",
+            "info":"凡客基础多色家居套装 女款 粉色",
+            "salary":"398",
+            "product_id":3
+        },
+        {
+            "img":"images/004.jpg",
+            "info":"凡客基础多色家居套装 女款 黑色",
+            "salary":"398",
+            "product_id":4
+        },
+        {
+            "img":"images/005.jpg",
+            "info":"凡客基础多色家居套装 女款 浅灰",
+            "salary":"398",
+            "product_id":5
+        },
+        {
+            "img":"images/006.jpg",
+            "info":"凡客基础多色家居套装 男款 橄榄绿",
+            "salary":"398",
+            "product_id":6
+        },
+        {
+            "img":"images/007.jpg",
+            "info":"凡客基础多色家居套装 男款 黑色",
+            "salary":"398",
+            "product_id":7
+        },
+        {
+            "img":"images/008.jpg",
+            "info":"凡客基础多色家居套装 男款 深灰",
+            "salary":"398",
+            "product_id":8
+        },
+        {
+            "img":"images/009.jpg",
+            "info":"凡客舒柔绒家居套装 女款 灰粉条纹",
+            "salary":"158",
+            "product_id":9
+        },
+        {
+            "img":"images/010.jpg",
+            "info":"凡客珊瑚绒家居套装 女款 开衫套装",
+            "salary":"258",
+            "product_id":10
+        },
+        {
+            "img":"images/011.jpg",
+            "info":"凡客珊瑚绒家居套装 女款 套头套装",
+            "salary":"258",
+            "product_id":11
+        },
+        {
+            "img":"images/012.jpg",
+            "info":"凡客珊瑚绒家居套装 男款 套头套装",
+            "salary":"158",
+            "product_id":12
+        },
+        {
+            "img":"images/013.jpg",
+            "info":"凡客珊瑚绒家居套装 男款 拉链套装",
+            "salary":"158",
+            "product_id":13
+        },
+        {
+            "img":"images/014.jpg",
+            "info":"凡客纯棉舒适家居套装 男款 灰色",
+            "salary":"258",
+            "product_id":14
+        },
+        {
+            "img":"images/015.jpg",
+            "info":"凡客纯棉舒适家居套装 男款 棕色",
+            "salary":"258",
+            "product_id":15
+        },
+        {
+            "img":"images/016.jpg",
+            "info":"凡客纯棉舒适家居套装 男款 绿色",
+            "salary":"258",
+            "product_id":16
+        },
+        {
+            "img":"images/017.jpg",
+            "info":"童装秋衣套装 女童 小猫满印",
+            "salary":"258",
+            "product_id":17
+        },
+        {
+            "img":"images/018.jpg",
+            "info":"童装秋衣套装 女童 小猫玫红",
+            "salary":"258",
+            "product_id":18
+        },
+        {
+            "img":"images/019.jpg",
+            "info":"童装秋衣套装 男童 小兔黄色",
+            "salary":"258",
+            "product_id":19
+        },
+        {
+            "img":"images/020.jpg",
+            "info":"童装秋衣套装 男童 树熊灰色",
+            "salary":"258",
+            "product_id":20
+        },
+        {
+            "img":"images/021.jpg",
+            "info":"童装秋衣套装 男童 小兔宝蓝",
+            "salary":"258",
+            "product_id":21
+        },
+        {
+            "img":"images/022.jpg",
+            "info":"童装秋衣套装 男童 树熊满印",
+            "salary":"258",
+            "product_id":22
+        },
+        {
+            "img":"images/023.jpg",
+            "info":"童款家居鞋凉鞋 星星花园 兰色星星",
+            "salary":"98",
+            "product_id":23
+        },
+        {
+            "img":"images/024.jpg",
+            "info":"童款家居鞋凉鞋 星星花园 黄色星星",
+            "salary":"98",
+            "product_id":24
+        },
+        {
+            "img":"images/025.jpg",
+            "info":"亲子系列家居鞋 笑脸 浅灰",
+            "salary":"98",
+            "product_id":25
+        }
+]}

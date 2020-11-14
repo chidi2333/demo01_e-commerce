@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/shoppingcar.css">
+    <link rel="stylesheet" href="css/common.css">
+    <script src="js/require.js" defer async = "true" data-main = "js/shopping.js"></script>
+</head>
+<body>
+    <div class="header">
+        <div class="header-left fl">
+            <a href="index.html">
+                <img src="images/logo18546.png" alt="">
+            </a>
+        </div>
+        <div class="header-right fr">
+            <span>您好，欢迎光临凡客诚品。</span>
+            <a href="login.html">登录</a>
+                |
+            <a href="register.html">注册</a>
+            <span>帮助中心</span>
+        </div>
+    </div>
+    <div class="location">
+        <em>1.我的购物车</em>
+        <span>2.填写核对信息单</span>
+        <span>3.成功提交订单</span>
+    </div>
+    <div class="content">
+        <div class="topcar">
+            <h2>我的购物车</h2>
+        </div>
+        <div class="tip">
+            <span>温馨提示：</span>
+            1.选购清单中的商品无法保留库存，请您及时结算。2.商品的价格和库存将以订单提交时为准。3.促销活动满减优惠将均摊至商品小计中。
+        </div>
+        <table cellspacing="0" class="table-tab">
+            <thead>
+                <tr class="table-tr1">
+                    <th>&nbsp;</th>
+                    <th>
+                        <input type="checkbox" class="col-check" id="all-ckb-top" name="all-products" value="all-products">  
+                        <label for="all-ckb-top">全选</label>
+                    </th>
+                    <th>&nbsp;</th>
+                    <th>商品名称</th>
+                    <th>单价</th>
+                    <th>数量</th>
+                    <th>小计</th>
+                    <th>操作</th>
+                </tr>
+            </thead>
+            <tbody class="table-tbody">
+            </tbody>
+        </table>
+        <div class="lasts">
+            <span>
+                继续购物
+            </span>
+            <span>
+                共
+                <i id="fk-cartnum1"></i>件商品，已选择
+                <i id="fk-cartnum2"></i>件
+            </span>
+            <span>合计：
+                <i id="fk-cartsalary"></i>元
+            </span>
+        </div>
+    </div>
+</body>
+</html>
